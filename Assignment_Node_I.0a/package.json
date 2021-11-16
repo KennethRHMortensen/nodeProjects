@@ -1,0 +1,11 @@
+{
+  "name": "assignment_node_i.0a",
+  "version": "1.0.0",
+  "description": "Write a module containing af function that returns true if all provided parameters have values, and false otherwise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('hello world');"
+  },
+  "author": "Kennt",
+  "license": "ISC"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "projectb",
+  "version": "1.0.0",
+  "description": "test server b",
+  "main": "serverb.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ass_i.0a",
+  "version": "1.0.0",
+  "description": "Write a module containing af function that returns true if all provided parameters have values, and false otherwise.",
+  "main": "mod.js",
+  "scripts": {
+    "test": "console.log('hello world');"
+  },
+  "author": "kennt",
+  "license": "ISC"
+}
